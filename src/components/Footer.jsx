@@ -41,13 +41,13 @@ export default function Footer() {
 
             {/* Developer Info */}
             <div className="space-y-2 mb-6">
-              <p className="text-sm font-semibold text-white">Prince Bishwakarma</p>
+              <p className="text-sm font-semibold text-white">Prince Biswakarma</p>
               <a
-                href="mailto:your-email@example.com"
+                href="mailto:bishwakarmaprince081@gmail.com"
                 className="flex items-center gap-2 text-sm text-dark-400 hover:text-primary-400 transition-colors duration-300"
               >
                 <HiMail className="w-4 h-4" />
-                your-email@example.com
+                bishwakarmaprince081@gmail.com
               </a>
             </div>
 
